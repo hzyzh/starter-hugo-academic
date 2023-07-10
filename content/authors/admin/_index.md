@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate student of Computer Science
+role: Undergraduate student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://www.nju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an Undergraduate student of Computer Science at NJU, expected to graduate in 2023 Summer. My research interests include AI and Machine Learning, Programming Language, Software Engineering, and applying AI/ML techniques to solve problems.
+bio: I'm an Undergraduate student in Computer Science at NJU, expected to graduate in 2023 Summer. My research interests include AI and Machine Learning, Programming Language, Software Engineering, and applying AI/ML techniques to solve problems.
 
 # Interests to show in About widget
 interests:
@@ -74,5 +74,5 @@ email: 'huangapply@163.com'
 highlight_name: true
 ---
 
-I'm an Undergraduate student of Computer Science at NJU, expected to graduate in 2023 Summer. My research interests include AI and Machine Learning, Programming Language, Software Engineering, and applying AI/ML techniques to solve problems. Now I am doing research and completing my thesis about a Graph Neural Network (GNN) based framework for learning program semantics embeddings, under the supervision of Professor Yu Wang and Professor Linzhang Wang at NJU.
+I'm an Undergraduate student in Computer Science at NJU, expected to graduate in 2023 Summer. My research interests include AI and Machine Learning, Programming Language, Software Engineering, and applying AI/ML techniques to solve problems. Now I am doing research and completing my thesis about a Graph Neural Network (GNN) based framework for learning program semantics embeddings, under the supervision of Professor Yu Wang and Professor Linzhang Wang at NJU.
 {style="text-align: justify;"}
