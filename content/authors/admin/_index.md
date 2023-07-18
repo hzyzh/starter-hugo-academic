@@ -14,28 +14,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate student in Computer Science
+role: PhD student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Nanjing University
-    url: https://www.nju.edu.cn/
+  - name: Ohio State University
+    url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an Undergraduate student in Computer Science at NJU, expected to graduate in 2023 Summer. My research interests include AI and Machine Learning, Programming Language, Software Engineering, and applying AI/ML techniques to solve problems.
+bio: I'm going to pursue my PhD degree in Computer Science at Ohio State University in August, 2023. My research interests focus on Programming Language, hardware and software systems, and my research advisor will be prof. Michael Bond. I receive my Bachelor's degree in CS from Nanjing University in 2023, under the supervision of prof. Yu Wang.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence and Machine Learning
   - Programming Language
   - Software Engineering
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Computer Science
+    - course: PhD in CSE
+      institution: Ohio State University
+      year: 2028 (expected)
+    - course: BSc in CS
       institution: Nanjing University
-      year: 2023 (expected)
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,5 +76,5 @@ email: 'huangapply@163.com'
 highlight_name: true
 ---
 
-I'm an Undergraduate student in Computer Science at NJU, expected to graduate in 2023 Summer. My research interests include AI and Machine Learning, Programming Language, Software Engineering, and applying AI/ML techniques to solve problems. Now I am doing research and completing my thesis about a Graph Neural Network (GNN) based framework for learning program semantics embeddings, under the supervision of Professor Yu Wang and Professor Linzhang Wang at NJU.
+I'm going to pursue my PhD degree in Computer Science at Ohio State University in August, 2023. My research interests focus on Programming Language, hardware and software analysis, and my research advisor will be prof. Michael Bond. I receive my Bachelor's degree in CS from Nanjing University in 2023, under the supervision of prof. Yu Wang.
 {style="text-align: justify;"}
